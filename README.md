@@ -21,11 +21,13 @@ https://github.com/leexiangf/aiaaii-orca-marketplace.git
 
 - `orca-marketplace.json` — index only (plugin code stays in each upstream repo)
 - Generated from the Any AI Orca catalog; official `stablyai` listings are omitted (use the in-app / onorca.dev catalog for those)
+- **Only plugins that passed shallow installable verify** (repo exists + parseable `orca-plugin.json`) are included. This does **not** guarantee runtime quality or security.
 
 ## Counts
 
-- Plugins listed: **110**
-- Generated: 2026-11-08T05:24:35.836Z
+- Plugins listed: **103**
+- Skipped (unverified / official / marketplace-type): **54**
+- Generated: 2026-11-08T07:24:15.094Z
 
 ## Website
 

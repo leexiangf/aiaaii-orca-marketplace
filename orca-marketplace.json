@@ -99,18 +99,6 @@
       ]
     },
     {
-      "id": "Bandersnatch0x/orca-shared-memory",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Bandersnatch0x/orca-shared-memory.git",
-        "ref": "main"
-      },
-      "description": "Local shared memory kernel for coding agents (Orca Shared Memory)",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "bautistapessagno.now-playing",
       "source": {
         "kind": "git",
@@ -399,18 +387,6 @@
       ]
     },
     {
-      "id": "first-fluke/oh-my-agent",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/first-fluke/oh-my-agent.git",
-        "ref": "main"
-      },
-      "description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and parallel workflows with test gates.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "gek0v.signature-themes",
       "source": {
         "kind": "git",
@@ -504,18 +480,6 @@
       "description": "Česká lokalizace Orca IDE",
       "categories": [
         "languages"
-      ]
-    },
-    {
-      "id": "ichikawacraice.painel-do-kit",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/ichikawacraice/kit-de-orquestracao.git",
-        "ref": "main"
-      },
-      "description": "Abre a página do kit, atualiza o estado na hora e avisa de versão nova; o contador de perguntas fica na barra de status.",
-      "categories": [
-        "commands-panels"
       ]
     },
     {
@@ -831,18 +795,6 @@
       ]
     },
     {
-      "id": "Miragon.bpmn-modeler",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Miragon/bpmn-modeler.git",
-        "ref": "main"
-      },
-      "description": "Experimental. Open .bpmn and .dmn files as diagrams: view, simulate and lightly model BPMN processes and DMN decisions, and see an agent's changes to the file as they happen. No deployment, code links or Form editor yet.",
-      "categories": [
-        "editors"
-      ]
-    },
-    {
       "id": "Miragon.wardley-maps-modeler",
       "source": {
         "kind": "git",
@@ -1059,18 +1011,6 @@
       ]
     },
     {
-      "id": "smwbev.russian",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/smwbev/orca-russian.git",
-        "ref": "main"
-      },
-      "description": "Полный перевод интерфейса Orca на русский язык.",
-      "categories": [
-        "languages"
-      ]
-    },
-    {
       "id": "stepinus.russian",
       "source": {
         "kind": "git",
@@ -1128,18 +1068,6 @@
       "description": "Live todo list and subagent status of the omp session running in the focused worktree.",
       "categories": [
         "commands-panels"
-      ]
-    },
-    {
-      "id": "teck-lab.teck-sbx-recipes",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Teck-Lab/Teck.Orca.git",
-        "ref": "main"
-      },
-      "description": "One persistent Docker Sandbox per project with native SSH, Orca-managed daemon, OMP and optional local KIND. Retains recovery for older sandboxes.",
-      "categories": [
-        "remote-vms"
       ]
     },
     {
@@ -1248,18 +1176,6 @@
       "description": "App and terminal themes in all four Tokyo Night styles, Night, Storm, Moon and Day, with matching syntax colors.",
       "categories": [
         "themes"
-      ]
-    },
-    {
-      "id": "vizuh/sabi",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/vizuh/sabi.git",
-        "ref": "main"
-      },
-      "description": "Adaptive inference scheduling for AI agents — per-round model, effort and provider routing for coding harnesses: a Command Code mod or a local OpenAI-compatible proxy.",
-      "categories": [
-        "commands-panels"
       ]
     },
     {
