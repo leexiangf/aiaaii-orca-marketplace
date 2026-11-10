@@ -111,18 +111,6 @@
       ]
     },
     {
-      "id": "berkaysirtas.turkish",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/berkaysirtas/orca-turkish.git",
-        "ref": "main"
-      },
-      "description": "Orca arayüzü için Türkçe dil paketi (Turkish language pack for the Orca interface).",
-      "categories": [
-        "languages"
-      ]
-    },
-    {
       "id": "Bigsy.milko",
       "source": {
         "kind": "git",
@@ -363,6 +351,18 @@
       ]
     },
     {
+      "id": "faisalmuhammad.news-feeds",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/faisalmuhammad/orca-news-feeds.git",
+        "ref": "v0.2.0"
+      },
+      "description": "A quiet place for RSS, Hacker News, and public Reddit feeds. Save what catches your eye and pick up where you left off.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "faisalmuhammad.sidequest",
       "source": {
         "kind": "git",
@@ -444,18 +444,6 @@
       "description": "Tmux-style pane and tab controls on a held Alt modifier. Alt acts as the tmux prefix: split, zoom, and navigate panes and terminal tabs without leaving the keyboard.",
       "categories": [
         "commands-panels"
-      ]
-    },
-    {
-      "id": "Hadisd.moonlit-pastel",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Hadisd/moonlit-pastel.git",
-        "ref": "main"
-      },
-      "description": "A dark, pale blue-violet theme with soft pastel pink, orange, yellow, green, cyan and lavender accents, plus a matching terminal theme.",
-      "categories": [
-        "themes"
       ]
     },
     {
@@ -790,6 +778,18 @@
         "ref": "main"
       },
       "description": "Live Pi sessions, background agents and workflow progress in Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "Miragon.pulse-cockpit",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Miragon/pulse.git",
+        "ref": "v0.27.1"
+      },
+      "description": "The Pulse engine cockpit for Operaton, CIB seven and Camunda 7 inside Orca.",
       "categories": [
         "commands-panels"
       ]

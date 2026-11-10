@@ -438,5 +438,13 @@
   "ysamjo/orca-plugin-harness-route": {
     "ref": "main",
     "source": "default"
+  },
+  "faisalmuhammad/orca-news-feeds": {
+    "ref": "v0.2.0",
+    "source": "release"
+  },
+  "Miragon/pulse": {
+    "ref": "v0.27.1",
+    "source": "release"
   }
 }
