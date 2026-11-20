@@ -530,5 +530,9 @@
   "wilsonliu123/orca-token-used": {
     "ref": "main",
     "source": "default"
+  },
+  "sondt2709/inbox2agent": {
+    "ref": "main",
+    "source": "default"
   }
 }

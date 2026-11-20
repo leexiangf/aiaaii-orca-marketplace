@@ -579,6 +579,18 @@
       ]
     },
     {
+      "id": "i2a.notify",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/sondt2709/inbox2agent.git",
+        "ref": "main"
+      },
+      "description": "Shows the notifications of i2a (inbox2agent) in Orca and on the phones that are paired with Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "j-dandelion.orca-rose-pine-moon",
       "source": {
         "kind": "git",
