@@ -111,6 +111,18 @@
       ]
     },
     {
+      "id": "autonomous-ai.harness-device",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/autonomous-ai/openharness.git",
+        "ref": "main"
+      },
+      "description": "The dial's state in Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "awallsr.beads",
       "source": {
         "kind": "git",
