@@ -446,5 +446,13 @@
   "Miragon/pulse": {
     "ref": "v0.27.1",
     "source": "release"
+  },
+  "faisalmuhammad/orca-n8n": {
+    "ref": "main",
+    "source": "default"
+  },
+  "kryptobaseddev/cleo": {
+    "ref": "main",
+    "source": "default"
   }
 }

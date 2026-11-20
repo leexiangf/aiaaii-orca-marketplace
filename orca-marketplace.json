@@ -351,6 +351,18 @@
       ]
     },
     {
+      "id": "faisalmuhammad.n8n",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/faisalmuhammad/orca-n8n.git",
+        "ref": "main"
+      },
+      "description": "Open your local or Cloud n8n instance in Orca. Browse workflows, read-only previews, recent runs, and insights in the sidebar.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "faisalmuhammad.news-feeds",
       "source": {
         "kind": "git",
@@ -600,6 +612,18 @@
       "description": "Read Markdown files in a narrow column instead of the full editor width. To open it, pick Narrow in the view toggle at the top right of a Markdown tab.",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "id": "kryptobaseddev.cleo",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/kryptobaseddev/cleo.git",
+        "ref": "main"
+      },
+      "description": "Read-only CLEO task and epic view for a workspace on this machine. It runs bounded cleo CLI reads and changes nothing.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
