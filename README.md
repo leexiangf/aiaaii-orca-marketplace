@@ -27,7 +27,7 @@ https://github.com/leexiangf/aiaaii-orca-marketplace.git
 
 - Plugins listed: **112**
 - Skipped (unverified / official / marketplace-type): **55**
-- Generated: 2026-11-20T02:10:19.023Z
+- Generated: 2026-11-20T02:10:38.802Z
 
 ## Website
 
