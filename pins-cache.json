@@ -478,5 +478,57 @@
   "vshulcz/deja-vu": {
     "ref": "main",
     "source": "default"
+  },
+  "aetna000/atmem-ai-architect-orca": {
+    "ref": "main",
+    "source": "default"
+  },
+  "angelcrown24/orca-traffic-light": {
+    "ref": "main",
+    "source": "default"
+  },
+  "aoyamashou/workflowy-in-orca": {
+    "ref": "main",
+    "source": "default"
+  },
+  "bahachammakhi/kube-panel": {
+    "ref": "main",
+    "source": "default"
+  },
+  "danitrrga/forge": {
+    "ref": "main",
+    "source": "default"
+  },
+  "faisalmuhammad/orca-assets-library": {
+    "ref": "main",
+    "source": "default"
+  },
+  "heyfey/vaporview-orca": {
+    "ref": "main",
+    "source": "default"
+  },
+  "jecyxyf/Orca-TPS-Plugin": {
+    "ref": "main",
+    "source": "default"
+  },
+  "klausbegnis/agent-center": {
+    "ref": "main",
+    "source": "default"
+  },
+  "Lilykos/orca-the-lobby": {
+    "ref": "main",
+    "source": "default"
+  },
+  "plozmun/orca-redmine": {
+    "ref": "main",
+    "source": "default"
+  },
+  "vzxxbacq/orca-colab": {
+    "ref": "main",
+    "source": "default"
+  },
+  "wilsonliu123/orca-token-used": {
+    "ref": "main",
+    "source": "default"
   }
 }

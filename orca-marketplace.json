@@ -15,6 +15,18 @@
       ]
     },
     {
+      "id": "aetna000.atmem-architect",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/aetna000/atmem-ai-architect-orca.git",
+        "ref": "main"
+      },
+      "description": "Explore a complete AI project, create your own design and download project files inside Orca. Contact: hello@atmem.ai.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "agent-notify.agent-notify",
       "source": {
         "kind": "git",
@@ -63,13 +75,25 @@
       ]
     },
     {
-      "id": "aspiers.attention-cycling",
+      "id": "angelcrown24.traffic-light",
       "source": {
         "kind": "git",
-        "url": "https://github.com/aspiers/ai-config.git",
+        "url": "https://github.com/angelcrown24/orca-traffic-light.git",
         "ref": "main"
       },
-      "description": "Shortcuts that jump to the previous or next agent needing attention, via orca-cycle-attention-agent.",
+      "description": "Observe agent activity, sync shared capabilities, and connect agents on demand.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "aoyamashou.workflowy-sidebar",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/aoyamashou/workflowy-in-orca.git",
+        "ref": "main"
+      },
+      "description": "Browse and edit your Workflowy outline in the Orca sidebar.",
       "categories": [
         "commands-panels"
       ]
@@ -87,18 +111,6 @@
       ]
     },
     {
-      "id": "autonomous-ai.harness-device",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/autonomous-ai/openharness.git",
-        "ref": "main"
-      },
-      "description": "The dial's state in Orca.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "awallsr.beads",
       "source": {
         "kind": "git",
@@ -106,6 +118,18 @@
         "ref": "main"
       },
       "description": "Beads task tracking in Orca's sidebar: browse, create, claim, close and start tasks in their own worktrees.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "bahachammakhi.kube-panel",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/bahachammakhi/kube-panel.git",
+        "ref": "main"
+      },
+      "description": "Inspect Kubernetes beside your code: browse pods and deployments, search and filter container logs, expand JSON log fields, and inspect events and highlighted YAML. Choose a context and namespace, optionally refresh logs every three seconds, or open a read-only k9s terminal; uses",
       "categories": [
         "commands-panels"
       ]
@@ -190,6 +214,18 @@
         "ref": "main"
       },
       "description": "Keeps the ecp symbol graph warm for every worktree, and puts index / impact / summary one click away.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "danitrrga.fwx-session",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/danitrrga/forge.git",
+        "ref": "main"
+      },
+      "description": "Where the fwx session of the workspace in view stands: project, stage and part.",
       "categories": [
         "commands-panels"
       ]
@@ -324,6 +360,18 @@
       "description": "Memory Atlas for Orca: open the local memory vault, pending review and knowledge graph from a sandboxed Orca panel.",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "faisalmuhammad.assets-library",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/faisalmuhammad/orca-assets-library.git",
+        "ref": "main"
+      },
+      "description": "Automatically discover agent-generated images, videos, SVGs, Markdown and HTML in your current Orca worktree and its associated chat folders.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -519,6 +567,18 @@
       ]
     },
     {
+      "id": "heyfey.vaporview",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/heyfey/vaporview-orca.git",
+        "ref": "main"
+      },
+      "description": "Waveform viewer for VCD, FST, and GHW files. A port of the VS Code extension vaporview.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "j-dandelion.orca-rose-pine-moon",
       "source": {
         "kind": "git",
@@ -531,18 +591,6 @@
       ]
     },
     {
-      "id": "jarede.jstack-orchestrate",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/jarede/jstack.git",
-        "ref": "main"
-      },
-      "description": "Shows pending decision gates and the frontier MR pipeline of jstack orchestrate programs.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "JargeZ.docker-vm",
       "source": {
         "kind": "git",
@@ -552,6 +600,18 @@
       "description": "Isolated development environments: each Orca workspace runs in its own Docker container on your machine, so toolchains, dependencies and the agents' work leave no trace on the host. Fine-grained git tokens for one repository, no privileged containers, rootless Podman inside. Note",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "jecyxyf.tps-stats",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/jecyxyf/Orca-TPS-Plugin.git",
+        "ref": "main"
+      },
+      "description": "Track live request speed and token usage in Orca. Compare models, spot daily trends, and join a cross-device leaderboard with GitHub sign-in.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -639,6 +699,18 @@
       ]
     },
     {
+      "id": "klausbegnis.agent-center",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/klausbegnis/agent-center.git",
+        "ref": "main"
+      },
+      "description": "A tavern per project where your agents are characters acting out their work. Just watch them, or turn on the idle auto-battler: levels and loot, a settlement and cities that grow, traits, achievements, daily quests, a bestiary and boss dungeons.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "kolebayev.narrow-markdown",
       "source": {
         "kind": "git",
@@ -658,6 +730,18 @@
         "ref": "main"
       },
       "description": "Agent-first task orchestration. Persistent memory. Multi-provider coordination.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "Lilykos.the-lobby",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Lilykos/orca-the-lobby.git",
+        "ref": "main"
+      },
+      "description": "See every agent in every worktree in one live view: pixel people in a room per project, who needs you or seems stuck, org charts of who started whom, and context and tokens per agent. Local and paired-server agents, with no telemetry. Tour and guide: https://lilykos.github.io/orc",
       "categories": [
         "commands-panels"
       ]
@@ -759,18 +843,6 @@
       ]
     },
     {
-      "id": "mathiscapart.context-bar",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/mathiscapart/claude-config.git",
-        "ref": "main"
-      },
-      "description": "Ce qui remplit la fenêtre de contexte de la session Claude Code suivie (workspace actif ou session choisie), par catégorie et en détail comme /context, avec l'historique de chaque session et la liste des conversations.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "mattjohnson.sbx-recipes",
       "source": {
         "kind": "git",
@@ -826,42 +898,6 @@
         "ref": "main"
       },
       "description": "Keep Orca visible on Discord, with workspace and agent details when an agent is open.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
-      "id": "minhuw.pi-activity",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/minhuw/pi-extensions.git",
-        "ref": "main"
-      },
-      "description": "Live Pi sessions, background agents and workflow progress in Orca.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
-      "id": "Miragon.wardley-maps-modeler",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Miragon/modeler-suite.git",
-        "ref": "main"
-      },
-      "description": "Open .wmap and .owm files as Wardley maps: place components on the evolution axis, draw their dependencies, and keep an agent's changes to the file merged with yours.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
-      "id": "Miragon.wardley-maps-modeler",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Miragon/orca-modelers.git",
-        "ref": "main"
-      },
-      "description": "Open .wmap and .owm files as Wardley maps: place components on the evolution axis, draw their dependencies, and keep an agent's changes to the file merged with yours.",
       "categories": [
         "commands-panels"
       ]
@@ -939,18 +975,6 @@
       ]
     },
     {
-      "id": "onlyne.onlyne-sessions",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/dbydd/onlyne.git",
-        "ref": "main"
-      },
-      "description": "只读 supervisor 看板：把平铺的 Orca tab 列表与每个 server root 的 onlyne sessions/roles 合成一块看板，在 dev 安装下实时渲染进面板，并提供跳转/复制/调试命令。Read-only supervisor board for Onlyne, rendered live into the panel of a dev install.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "orca-discord.discord-rich-presence",
       "source": {
         "kind": "git",
@@ -982,6 +1006,18 @@
         "ref": "main"
       },
       "description": "Entire trails, findings and checkpoints for your Orca workspaces.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "plozmun.redmine-tasks",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/plozmun/orca-redmine.git",
+        "ref": "main"
+      },
+      "description": "Your Redmine tasks in Orca's sidebar, linked to workspaces and agents.",
       "categories": [
         "commands-panels"
       ]
@@ -1023,18 +1059,6 @@
       ]
     },
     {
-      "id": "RobertoGoAm.agent-keys",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/RobertoGoAm/nix-config.git",
-        "ref": "main"
-      },
-      "description": "One key to reach the agent that needs you next, one to hide both sidebars, and a status bar count of agents waiting on you.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "rohitg00.agentmemory",
       "source": {
         "kind": "git",
@@ -1053,7 +1077,7 @@
         "url": "https://github.com/RonanCodes/orca-reminders.git",
         "ref": "main"
       },
-      "description": "Remind me later: set reminders tied to a workspace or tab, get a desktop notification when they are due, and snooze, move or tick them off from a sidebar panel.",
+      "description": "Remind me later about this workspace or tab: a desktop notification when it is due, a count in the status bar, and snooze, move, open or tick off from a sidebar panel or the palette.",
       "categories": [
         "commands-panels"
       ]
@@ -1294,6 +1318,30 @@
         "ref": "main"
       },
       "description": "Ask a question in the Council panel: Claude, GPT (Codex) and Gemini (agy) answer blind, a blind Claude chair judges, and you watch it live in an Orca tab.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "vzxxbacq.colab",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/vzxxbacq/orca-colab.git",
+        "ref": "main"
+      },
+      "description": "Give Claude Code, Codex and your other Orca agents a Google Colab GPU: launch T4, L4 or A100 runtimes, sync code, run training jobs and pull results back.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "wilsonliu123.token-pulse",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/wilsonliu123/orca-token-used.git",
+        "ref": "main"
+      },
+      "description": "Real-time token usage, generation TPS, live model cost, and 5h/weekly quota gauges across Claude Code, Codex, Gemini, and Antigravity. Reads local agent transcripts and Orca metadata; sends only public pricing requests.",
       "categories": [
         "commands-panels"
       ]
