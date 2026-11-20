@@ -87,6 +87,18 @@
       ]
     },
     {
+      "id": "autonomous-ai.harness-device",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/autonomous-ai/openharness.git",
+        "ref": "main"
+      },
+      "description": "The dial's state in Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "awallsr.beads",
       "source": {
         "kind": "git",
@@ -99,13 +111,13 @@
       ]
     },
     {
-      "id": "bautistapessagno.now-playing",
+      "id": "BautistaPessagno.now-playing",
       "source": {
         "kind": "git",
         "url": "https://github.com/BautistaPessagno/orca-spotify.git",
         "ref": "main"
       },
-      "description": "Control Spotify from Orca: the desktop app on macOS, or any device through the Spotify Web API. Not affiliated with Spotify.",
+      "description": "Spotify or Apple Music in Orca's sidebar: Home, your library, search, queue and devices for Spotify, the Music app's player for Apple Music, plus a now-playing status bar item. Your coding agents can play, pause, search and queue too. Works with the Spotify or Music app on a Mac ",
       "categories": [
         "commands-panels"
       ]
@@ -117,7 +129,7 @@
         "url": "https://github.com/Bigsy/milko.git",
         "ref": "main"
       },
-      "description": "Rich Markdown editing for Orca with source preservation and recoverable conflict drafts.",
+      "description": "Edit Markdown directly in a rendered view, with local spelling and grammar checks powered by Harper. Includes Mermaid diagrams, maths, themes and recoverable drafts.",
       "categories": [
         "editors"
       ]
@@ -225,7 +237,7 @@
         "url": "https://github.com/dohaidang/orca-theme-plugin.git",
         "ref": "main"
       },
-      "description": "Fourteen ASCII wallpaper themes (thirteen dark, one light), each with theme, dark or light sidebars, plus matching terminal palettes and file icons.",
+      "description": "Animated ASCII wallpapers with matching sidebar variants, terminal palettes and file icons. Video on Orca 1.4.254+, still image on older versions. To see the wallpaper, set &quot;Background Opacity&quot; below 1 and turn off &quot;Reduce Visual Effects&quot;",
       "categories": [
         "icons"
       ]
@@ -237,7 +249,7 @@
         "url": "https://github.com/dohaidang/orca-vietnamese-plugin.git",
         "ref": "main"
       },
-      "description": "Bản dịch tiếng Việt cho giao diện Orca 1.4.246.",
+      "description": "Bản dịch tiếng Việt cho giao diện Orca 1.4.255.",
       "categories": [
         "languages"
       ]
@@ -327,6 +339,18 @@
       ]
     },
     {
+      "id": "faisalmuhammad.json-visualizer",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/faisalmuhammad/orca-json-visualizer.git",
+        "ref": "main"
+      },
+      "description": "Explore JSON, JSONC, and YAML as interactive graphs beside editable source in Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "faisalmuhammad.monospace-icons",
       "source": {
         "kind": "git",
@@ -396,6 +420,18 @@
       "description": "Traditional Chinese (Taiwan) translations for the full Orca interface.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "first-fluke/oh-my-agent",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/first-fluke/oh-my-agent.git",
+        "ref": "main"
+      },
+      "description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and parallel workflows with test gates.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -615,13 +651,13 @@
       ]
     },
     {
-      "id": "kryptobaseddev.cleo",
+      "id": "kryptobaseddev/cleo",
       "source": {
         "kind": "git",
         "url": "https://github.com/kryptobaseddev/cleo.git",
         "ref": "main"
       },
-      "description": "Read-only CLEO task and epic view for a workspace on this machine. It runs bounded cleo CLI reads and changes nothing.",
+      "description": "Agent-first task orchestration. Persistent memory. Multi-provider coordination.",
       "categories": [
         "commands-panels"
       ]
@@ -633,7 +669,7 @@
         "url": "https://github.com/lindoo67/drawio-plugin.git",
         "ref": "main"
       },
-      "description": "在 Orca 中离线创建和编辑 draw.io 流程图、架构图及多页图表。",
+      "description": "Create and edit draw.io flowcharts, architecture diagrams, and multi-page diagrams entirely offline in Orca, with an infinite canvas, collapsible sidebar, popular vector shape libraries, undo and redo, automatic synchronization, and high-resolution PNG and SVG clipboard copying.",
       "categories": [
         "editors"
       ]
@@ -645,7 +681,7 @@
         "url": "https://github.com/llima/craftar-orca.git",
         "ref": "main"
       },
-      "description": "See which Forge a workspace follows, its linked projects and the files coming and going — with the craftar you installed.",
+      "description": "See which Forge a workspace follows, the surfaces craftar writes and the files coming and going, with the craftar you installed.",
       "categories": [
         "remote-vms"
       ]
@@ -753,7 +789,7 @@
         "url": "https://github.com/Mbirepinte/Orca-asciidoc-viewer.git",
         "ref": "main"
       },
-      "description": "Edit AsciiDoc source beside a live preview in Orca.",
+      "description": "Edit AsciiDoc source beside a live preview in Orca, with PlantUML diagrams rendered offline.",
       "categories": [
         "editors"
       ]
@@ -807,18 +843,6 @@
       ]
     },
     {
-      "id": "Miragon.pulse-cockpit",
-      "source": {
-        "kind": "git",
-        "url": "https://github.com/Miragon/pulse.git",
-        "ref": "v0.27.1"
-      },
-      "description": "The Pulse engine cockpit for Operaton, CIB seven and Camunda 7 inside Orca.",
-      "categories": [
-        "commands-panels"
-      ]
-    },
-    {
       "id": "Miragon.wardley-maps-modeler",
       "source": {
         "kind": "git",
@@ -837,7 +861,19 @@
         "url": "https://github.com/Miragon/orca-modelers.git",
         "ref": "main"
       },
-      "description": "Open .wmap and .owm files as Wardley maps: place components on the evolution axis, draw their dependencies, and see an agent's changes to the file as they happen.",
+      "description": "Open .wmap and .owm files as Wardley maps: place components on the evolution axis, draw their dependencies, and keep an agent's changes to the file merged with yours.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "Miragon/pulse",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Miragon/pulse.git",
+        "ref": "v0.27.1"
+      },
+      "description": "Operate and analyse Camunda 7, CIB seven and Operaton engines from your AI chat, your terminal and VS Code.",
       "categories": [
         "commands-panels"
       ]
@@ -852,6 +888,18 @@
       "description": "Git history in an editor tab: commits, changed files and side-by-side diffs for your workspace or one file.",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "id": "mswdev.fleet-monitor",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/mswdev/orca-fleet-monitor.git",
+        "ref": "main"
+      },
+      "description": "System monitor for Orca: live CPU usage, per-core load and memory usage (RAM, swap, memory pressure) for this computer and all your paired remote servers. Like an activity monitor or task manager for all your machines: performance monitoring, stats and system resources in one sid",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -915,6 +963,18 @@
       ]
     },
     {
+      "id": "palulabs.office-tycoon",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/palulabs/orca-tycoon.git",
+        "ref": "main"
+      },
+      "description": "Every agent on your Orca host as a little pixel worker in a tycoon-style office.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "petercr.entire",
       "source": {
         "kind": "git",
@@ -970,6 +1030,18 @@
         "ref": "main"
       },
       "description": "One key to reach the agent that needs you next, one to hide both sidebars, and a status bar count of agents waiting on you.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "rohitg00.agentmemory",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/rohitg00/agentmemory.git",
+        "ref": "main"
+      },
+      "description": "Persistent memory for the coding agents you run in Orca: browse and search what they learned, send a memory to an agent, open the files it mentions and the viewer in Orca, and optionally capture agent tool calls.",
       "categories": [
         "commands-panels"
       ]
@@ -1200,6 +1272,18 @@
       "description": "App and terminal themes in all four Tokyo Night styles, Night, Storm, Moon and Day, with matching syntax colors.",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "vshulcz.deja",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/vshulcz/deja-vu.git",
+        "ref": "main"
+      },
+      "description": "Cross-agent session memory across forty-nine AI coding tools, injected into Orca prompts and command actions.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {

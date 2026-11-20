@@ -454,5 +454,29 @@
   "kryptobaseddev/cleo": {
     "ref": "main",
     "source": "default"
+  },
+  "faisalmuhammad/orca-json-visualizer": {
+    "ref": "main",
+    "source": "default"
+  },
+  "mswdev/orca-fleet-monitor": {
+    "ref": "main",
+    "source": "default"
+  },
+  "palulabs/orca-tycoon": {
+    "ref": "main",
+    "source": "default"
+  },
+  "autonomous-ai/openharness": {
+    "ref": "main",
+    "source": "default"
+  },
+  "rohitg00/agentmemory": {
+    "ref": "main",
+    "source": "default"
+  },
+  "vshulcz/deja-vu": {
+    "ref": "main",
+    "source": "default"
   }
 }
