@@ -534,5 +534,45 @@
   "sondt2709/inbox2agent": {
     "ref": "main",
     "source": "default"
+  },
+  "adamthewilliam/orca-diff-breakdown": {
+    "ref": "main",
+    "source": "default"
+  },
+  "esseener/orzic": {
+    "ref": "main",
+    "source": "default"
+  },
+  "faisalmuhammad/orca-terminal-lens": {
+    "ref": "main",
+    "source": "default"
+  },
+  "hasanalituran/orca-auto-dark-mode-windows": {
+    "ref": "main",
+    "source": "default"
+  },
+  "kloppers-labs/orca-azure-devops": {
+    "ref": "main",
+    "source": "default"
+  },
+  "kvdecvlt/orca-russian-language": {
+    "ref": "main",
+    "source": "default"
+  },
+  "Ryujiyasu/oxi": {
+    "ref": "main",
+    "source": "default"
+  },
+  "spscream/orca-fairway": {
+    "ref": "main",
+    "source": "default"
+  },
+  "Thanhh2615/datanoa": {
+    "ref": "main",
+    "source": "default"
+  },
+  "tienne/gestalt": {
+    "ref": "main",
+    "source": "default"
   }
 }

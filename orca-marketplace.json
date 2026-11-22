@@ -15,6 +15,18 @@
       ]
     },
     {
+      "id": "adamthewilliam.diff-breakdown",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/adamthewilliam/orca-diff-breakdown.git",
+        "ref": "main"
+      },
+      "description": "See a branch's changes broken down by kind: runtime, tests, contracts, DB migrations, CI/CD, config, dependencies and docs, with each kind's share of the changed lines. Reads repositories on this computer; remote workspaces aren’t supported yet.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "aetna000.atmem-architect",
       "source": {
         "kind": "git",
@@ -351,6 +363,18 @@
       ]
     },
     {
+      "id": "esseener.orzic",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/esseener/orzic.git",
+        "ref": "main"
+      },
+      "description": "Orzic — save a coding team and follow its Orca tasks from the sidebar.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "esykai.catppuccin-exact",
       "source": {
         "kind": "git",
@@ -454,6 +478,18 @@
         "ref": "v0.2.0"
       },
       "description": "A quiet place for RSS, Hacker News, and public Reddit feeds. Save what catches your eye and pick up where you left off.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "faisalmuhammad.running-terminals",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/faisalmuhammad/orca-terminal-lens.git",
+        "ref": "main"
+      },
+      "description": "Find processes running in your Orca terminals and jump directly to the terminal running them. Search across projects and worktrees.",
       "categories": [
         "commands-panels"
       ]
@@ -576,6 +612,18 @@
       "description": "Česká lokalizace Orca IDE",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "hasanalituran.toggle-light-dark-theme",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/hasanalituran/orca-auto-dark-mode-windows.git",
+        "ref": "main"
+      },
+      "description": "Toggle Orca between light and dark themes from the status bar. Pick any installed theme for each mode in the Theme Picker panel; the status bar button switches instantly. Defaults to Orca's neutral palette when no theme is configured.",
+      "categories": [
+        "themes"
       ]
     },
     {
@@ -735,6 +783,18 @@
       ]
     },
     {
+      "id": "kloppers-labs.azure-devops",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/kloppers-labs/orca-azure-devops.git",
+        "ref": "main"
+      },
+      "description": "Unofficial. Azure DevOps in Orca: a board you can work in, one-click agents, and work items, pull requests, pipelines and wikis.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "kolebayev.narrow-markdown",
       "source": {
         "kind": "git",
@@ -756,6 +816,18 @@
       "description": "Agent-first task orchestration. Persistent memory. Multi-provider coordination.",
       "categories": [
         "commands-panels"
+      ]
+    },
+    {
+      "id": "kvdecvlt.russian-language",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/kvdecvlt/orca-russian-language.git",
+        "ref": "main"
+      },
+      "description": "Полная русская локализация интерфейса Orca.",
+      "categories": [
+        "languages"
       ]
     },
     {
@@ -1119,6 +1191,18 @@
       ]
     },
     {
+      "id": "ryujiyasu.oxi-slides",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Ryujiyasu/oxi.git",
+        "ref": "main"
+      },
+      "description": "Read .pptx decks in Orca as slides, and play them full screen. Made for decks your agents write: the tab redraws when the file changes. Laid out by the Oxi engine (Rust + WebAssembly); nothing leaves the machine.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "senadaruc.grazr",
       "source": {
         "kind": "git",
@@ -1152,6 +1236,18 @@
       "description": "Opens Apache Parquet files in the editor: a fast data grid with sort, filter and export, the schema, and file details with per-column statistics.",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "id": "spscream.fairway",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/spscream/orca-fairway.git",
+        "ref": "main"
+      },
+      "description": "Choose an allowlisted Codex, Pi or Cursor profile with JEV, then explicitly launch it through Orca. Shadow mode by default.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -1251,6 +1347,18 @@
       ]
     },
     {
+      "id": "thanhh2615.datanoa",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Thanhh2615/datanoa.git",
+        "ref": "main"
+      },
+      "description": "All-in-one database client and SQL studio for Orca. Browse multi-schema objects, edit data inline, paste spreadsheets, import CSV/JSON, design schemas, run multi-tab SQL with bind params and manual transactions over SSH/TLS across 9 built-in engines (SQLite, PostgreSQL, MySQL, Ma",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
       "id": "thiagocorreanet.orca-drawio",
       "source": {
         "kind": "git",
@@ -1260,6 +1368,18 @@
       "description": "Draw.io / diagrams.net integration for Orca ADE.",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "id": "tienne.gestalt-conductor",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/tienne/gestalt.git",
+        "ref": "main"
+      },
+      "description": "Shows Gestalt conductor orders, open gates and bypass reports, and lets you approve or reject gates.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
