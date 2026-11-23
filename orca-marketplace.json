@@ -27,6 +27,18 @@
       ]
     },
     {
+      "id": "addisflava.llm-router",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/addisflava/orca-llm-router.git",
+        "ref": "main"
+      },
+      "description": "Use all your subscriptions and API credits from any provider and coding plan on any agent in Orca, in one place, without leaving Orca. Features multi-key credential pools with smooth weighted rotation, priority tiers, routing different providers behind a single model name with se",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "aetna000.atmem-architect",
       "source": {
         "kind": "git",
@@ -48,6 +60,18 @@
       "description": "Send notifications when agents reach done or blocked status",
       "categories": [
         "commands-panels"
+      ]
+    },
+    {
+      "id": "ainlee.zh-hant-full-patch",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/ainlee/Orca_zh-Hant.git",
+        "ref": "main"
+      },
+      "description": "以完整 zh-Hant catalog 提供 Orca 繁體中文（台灣）介面翻譯，作為 plugin 語系安裝（不修改內建語系檔）。",
+      "categories": [
+        "languages"
       ]
     },
     {
@@ -147,6 +171,18 @@
       ]
     },
     {
+      "id": "aywengo.omlx",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/aywengo/orca-mlx-plugin.git",
+        "ref": "main"
+      },
+      "description": "Manage one or more oMLX servers from Orca’s sidebar: named connections with per-server API keys in encrypted secrets, load and unload models, watch memory and live requests, edit base settings, and restart without leaving your workspace.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "bahachammakhi.kube-panel",
       "source": {
         "kind": "git",
@@ -204,6 +240,18 @@
       "description": "Save reusable commands and prompts, search them, and send them to a terminal or copy them in one click.",
       "categories": [
         "commands-panels"
+      ]
+    },
+    {
+      "id": "ChristianLemer.nushell-syntax",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/ChristianLemer/orca-nushell-syntax.git",
+        "ref": "main"
+      },
+      "description": "Syntax highlighting, comment toggling and bracket matching for Nushell scripts (.nu) and data files (.nuon).",
+      "categories": [
+        "languages"
       ]
     },
     {
@@ -360,6 +408,18 @@
       "description": "Turkish language pack for Orca UI, navigation, and developer tools.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "ENOSTECH-inc.worklog",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/ENOSTECH-inc/orca-worklog.git",
+        "ref": "main"
+      },
+      "description": "Visualize human and AI agent activity timelines, active time, live tool traces, and daily/weekly Markdown reports inside Orca.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -591,6 +651,30 @@
       ]
     },
     {
+      "id": "gook-lab.agent-scheduler",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/gook-lab/orca-agent-scheduler.git",
+        "ref": "main"
+      },
+      "description": "Sends a prompt to a Claude Code, Codex or Gemini CLI terminal in Orca at set times — every day, on weekdays, on picked days or dates, or every N minutes. It waits until the terminal is idle, sends through the Orca CLI, and records when the agent finishes, with a one-line result i",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "gutomec.nirvana-os",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/gutomec/nirvana-os-engine.git",
+        "ref": "main"
+      },
+      "description": "Makes every workspace Orca creates a Nirvana project, and shows the Nirvana runs in progress in the status bar and a sidebar panel.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "Hadisd.quiet-pastel",
       "source": {
         "kind": "git",
@@ -663,6 +747,18 @@
       ]
     },
     {
+      "id": "jamesjfoong.github-workbench",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/jamesjfoong/orca-plugin-github-workbench.git",
+        "ref": "main"
+      },
+      "description": "Browse GitHub issue relationships, pull requests, Actions checks, and release status from an Orca sidebar panel.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "JargeZ.docker-vm",
       "source": {
         "kind": "git",
@@ -682,6 +778,18 @@
         "ref": "main"
       },
       "description": "Track live request speed and token usage in Orca. Compare models, spot daily trends, and join a cross-device leaderboard with GitHub sign-in.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "jejacks0n.persona-studio",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/jejacks0n/orca-persona-studio.git",
+        "ref": "main"
+      },
+      "description": "Improve your Test-Driven Development with simulated personas and highly specific user goals.",
       "categories": [
         "commands-panels"
       ]
@@ -1071,6 +1179,18 @@
       ]
     },
     {
+      "id": "oddieradhie.kerjan",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/oddieradhie/orca-kerjan.git",
+        "ref": "main"
+      },
+      "description": "Kerjan issue tracker sidebar panel, status bar counter, ticket updates, and worktree creation for Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "orca-discord.discord-rich-presence",
       "source": {
         "kind": "git",
@@ -1179,6 +1299,18 @@
       ]
     },
     {
+      "id": "RonanCodes.run-command",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/RonanCodes/orca-run-command.git",
+        "ref": "main"
+      },
+      "description": "Type a shell command in the sidebar, press Enter, and it runs in a terminal of the current workspace without leaving your chat. Keeps recent commands, never their output or anything that looks like a secret.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "royklo.rego-syntax",
       "source": {
         "kind": "git",
@@ -1215,6 +1347,18 @@
       ]
     },
     {
+      "id": "Sergei-Popov.media-viewer",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Sergei-Popov/orca-media-viewer.git",
+        "ref": "main"
+      },
+      "description": "A media player in Orca's editor tabs: plays .mkv, .avi, .mka and .weba, which Orca cannot show (AVI is converted offline in the tab), and a full player view for .mp4, .mov, .webm, .mp3, .flac and more. Speed, frame stepping, repeat, frame snapshots, file info, shortcuts, media fi",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
       "id": "shakedm100.latex-preview",
       "source": {
         "kind": "git",
@@ -1239,6 +1383,30 @@
       ]
     },
     {
+      "id": "singray.doubleshift",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/singray/doubleshift.git",
+        "ref": "main"
+      },
+      "description": "双击 Shift，搜文件、查内容、即刻预览。Windows Electron 悬浮窗，支持文件名与正文混合搜索、源码高亮和图片预览。",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "sonthh.pitwall",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/sonthh/orca-pitwall.git",
+        "ref": "main"
+      },
+      "description": "A live pit wall for your coding agents: context, cost, subagents and every tool call, in Orca's right sidebar. Read-only, local, no network.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "spscream.fairway",
       "source": {
         "kind": "git",
@@ -1260,6 +1428,18 @@
       "description": "Russian translations for common Orca navigation.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "StructWorks.richdown",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/StructWorks/richdown.git",
+        "ref": "main"
+      },
+      "description": "Edit Markdown with a rich inline preview, editable tables, colored Mermaid diagrams, Gherkin boards, and Markdown lint and formatting.",
+      "categories": [
+        "editors"
       ]
     },
     {
@@ -1395,6 +1575,30 @@
       ]
     },
     {
+      "id": "tksuns12.account-token-tracker",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/tksuns12/account-token-tracker.git",
+        "ref": "main"
+      },
+      "description": "Tracks per-account quota % vs per-model token breakdown and API dollar value ($/1%), with weekly/monthly trends to detect quota enshittification.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "torisKR.toris-neon",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/torisKR/orca-toris-neon.git",
+        "ref": "main"
+      },
+      "description": "앱 제작 그래프, 멀티 에이전트 수정 루프, Play Store 점검과 오늘 이어하기.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "tw199501.zh-hant",
       "source": {
         "kind": "git",
@@ -1428,6 +1632,18 @@
       "description": "Soothing pastel app and terminal themes in all four Catppuccin flavors, with matching syntax colors.",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "vale-c.cyberpunk",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/vale-c/orca-cyberpunk.git",
+        "ref": "main"
+      },
+      "description": "Neon Cyberpunk app, code and terminal colors for Orca, in three styles: Cyberpunk, Umbra and Scarlet.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {

@@ -574,5 +574,77 @@
   "tienne/gestalt": {
     "ref": "main",
     "source": "default"
+  },
+  "addisflava/orca-llm-router": {
+    "ref": "main",
+    "source": "default"
+  },
+  "ainlee/Orca_zh-Hant": {
+    "ref": "main",
+    "source": "default"
+  },
+  "aywengo/orca-mlx-plugin": {
+    "ref": "main",
+    "source": "default"
+  },
+  "ChristianLemer/orca-nushell-syntax": {
+    "ref": "main",
+    "source": "default"
+  },
+  "ENOSTECH-inc/orca-worklog": {
+    "ref": "main",
+    "source": "default"
+  },
+  "gook-lab/orca-agent-scheduler": {
+    "ref": "main",
+    "source": "default"
+  },
+  "gutomec/nirvana-os-engine": {
+    "ref": "main",
+    "source": "default"
+  },
+  "jamesjfoong/orca-plugin-github-workbench": {
+    "ref": "main",
+    "source": "default"
+  },
+  "jejacks0n/orca-persona-studio": {
+    "ref": "main",
+    "source": "default"
+  },
+  "oddieradhie/orca-kerjan": {
+    "ref": "main",
+    "source": "default"
+  },
+  "RonanCodes/orca-run-command": {
+    "ref": "main",
+    "source": "default"
+  },
+  "Sergei-Popov/orca-media-viewer": {
+    "ref": "main",
+    "source": "default"
+  },
+  "singray/doubleshift": {
+    "ref": "main",
+    "source": "default"
+  },
+  "sonthh/orca-pitwall": {
+    "ref": "main",
+    "source": "default"
+  },
+  "StructWorks/richdown": {
+    "ref": "main",
+    "source": "default"
+  },
+  "tksuns12/account-token-tracker": {
+    "ref": "main",
+    "source": "default"
+  },
+  "torisKR/orca-toris-neon": {
+    "ref": "main",
+    "source": "default"
+  },
+  "vale-c/orca-cyberpunk": {
+    "ref": "main",
+    "source": "default"
   }
 }
