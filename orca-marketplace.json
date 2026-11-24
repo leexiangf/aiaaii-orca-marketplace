@@ -15,6 +15,18 @@
       ]
     },
     {
+      "id": "actus7.autocomplete",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/actus7/orca-autocomplete.git",
+        "ref": "main"
+      },
+      "description": "Gray inline suggestions as you type, powered by the AI provider you choose (OpenAI, Anthropic, OpenRouter, Mistral, Ollama or any compatible API), plus snippets, postfix templates and language servers with the AI off.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "adamthewilliam.diff-breakdown",
       "source": {
         "kind": "git",
@@ -123,6 +135,18 @@
       ]
     },
     {
+      "id": "AnhVanGiang.agent-accounts",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/AnhVanGiang/orca-agent-accounts.git",
+        "ref": "main"
+      },
+      "description": "Pick which Claude Code and Codex account each repo, workspace or tab runs its agents on, using the accounts you added in Orca. Move a running Claude tab to another account. macOS only.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "aoyamashou.workflowy-sidebar",
       "source": {
         "kind": "git",
@@ -195,6 +219,18 @@
       ]
     },
     {
+      "id": "bakescakes.plannotator-inbox",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/bakescakes/orca-plannotator-inbox.git",
+        "ref": "main"
+      },
+      "description": "Brings your Plannotator Inbox replies back into the Orca chat that asked, and lets the Inbox start, stop, resume and open Orca chats. Keeps itself and its Plannotator up to date.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "BautistaPessagno.now-playing",
       "source": {
         "kind": "git",
@@ -219,6 +255,30 @@
       ]
     },
     {
+      "id": "caocuong2404.observability",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/caocuong2404/orca-observability.git",
+        "ref": "main"
+      },
+      "description": "An audit trail for Orca: terminal output, text sent to terminals, agent prompts and tool calls, and workspace and agent events, streamed into a sidebar feed.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "Catalina-Automation.sabino-theme",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Catalina-Automation/sabino-theme.git",
+        "ref": "main"
+      },
+      "description": "A quiet Sonoran color scheme. Sabino Day (canyon sand) and Sabino Night (canyon green), for the app, the code editor and the terminal.",
+      "categories": [
+        "themes"
+      ]
+    },
+    {
       "id": "cemalkilic.lima-recipes",
       "source": {
         "kind": "git",
@@ -228,6 +288,18 @@
       "description": "Disposable Lima VM workspaces: create, suspend, resume and destroy with limactl.",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "choihjin.hwp-viewer",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/choihjin/orca-hwp.git",
+        "ref": "main"
+      },
+      "description": "Read-only viewer for Hangul word processor documents (.hwp and .hwpx) inside Orca, drawn page by page with the rhwp engine. An independent project, not affiliated with Hancom.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -267,6 +339,18 @@
       ]
     },
     {
+      "id": "codewiresh.codewire",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/codewiresh/codewire.git",
+        "ref": "main"
+      },
+      "description": "Run each Orca workspace in its own Codewire environment: a local VM on this computer or a cloud sandbox.",
+      "categories": [
+        "remote-vms"
+      ]
+    },
+    {
       "id": "controlvector.cv-hub",
       "source": {
         "kind": "git",
@@ -286,6 +370,18 @@
         "ref": "main"
       },
       "description": "Keeps the ecp symbol graph warm for every worktree, and puts index / impact / summary one click away.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "cryptosecco.regia",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/cryptosecco/orca-regia-plugin.git",
+        "ref": "main"
+      },
+      "description": "A read-only control room for your Orca bots: what is waiting on you, the queue by priority, who is working on what, and how work flows between bots, workers and pull requests.",
       "categories": [
         "commands-panels"
       ]
@@ -360,6 +456,18 @@
       "description": "Bản dịch tiếng Việt cho giao diện Orca 1.4.255.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "DueGin.ensemble",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/DueGin/orca-ensemble.git",
+        "ref": "main"
+      },
+      "description": "Run a request with a team of agents: a lead that does intake, a shared task board, plan approval, messages and file claims (team mode), or splits the work across isolated members (delegation mode). Each role runs on its own agent CLI and model. Live data-flow dashboard, visual te",
+      "categories": [
+        "editors"
       ]
     },
     {
@@ -723,6 +831,18 @@
       ]
     },
     {
+      "id": "howarewoo.bot-board",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/howarewoo/bot-board.git",
+        "ref": "main"
+      },
+      "description": "A Kanban of what every Orca bot and its workers are doing, served as a local page you can keep open in a floating workspace browser tab. Click an agent or worker card to focus its terminal.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "i2a.notify",
       "source": {
         "kind": "git",
@@ -768,6 +888,18 @@
       "description": "Isolated development environments: each Orca workspace runs in its own Docker container on your machine, so toolchains, dependencies and the agents' work leave no trace on the host. Fine-grained git tokens for one repository, no privileged containers, rootless Podman inside. Note",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "jdflament.coordinator-board",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/jdflament/orca-coordinator.git",
+        "ref": "main"
+      },
+      "description": "Your coordinator agent in Orca: one click sets it up, then the board shows what needs you, work by ticket and running workers.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -879,6 +1011,18 @@
       ]
     },
     {
+      "id": "kevmansilla.command-deck",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/kevmansilla/orca-command-deck.git",
+        "ref": "main"
+      },
+      "description": "Tus agentes, bots y repos en un solo panel: quién te espera, quién trabaja, y el Source Control de todos los repos de Orca.",
+      "categories": [
+        "remote-vms"
+      ]
+    },
+    {
       "id": "klausbegnis.agent-center",
       "source": {
         "kind": "git",
@@ -936,6 +1080,30 @@
       "description": "Полная русская локализация интерфейса Orca.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "Kyino-Pan.agent-activity",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Kyino-Pan/agents-director.git",
+        "ref": "main"
+      },
+      "description": "A rolling seven-day timeline of publicly observed Orca agent states and session summaries.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "lamtuanvu.pacer",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/lamtuanvu/pacer.git",
+        "ref": "main"
+      },
+      "description": "A sidebar panel and the worker that answers it.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -1131,6 +1299,30 @@
       ]
     },
     {
+      "id": "mostlyheath.stillwater",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/mostlyheath/stillwater.git",
+        "ref": "main"
+      },
+      "description": "Quiet dark and light themes for Orca's interface, code editor, and terminals. Inspired by Nord and Dracula.",
+      "categories": [
+        "themes"
+      ]
+    },
+    {
+      "id": "mqnoy.antigravity-flow",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/mqnoy/orca-antigravity-flow.git",
+        "ref": "main"
+      },
+      "description": "Agile workflows, multi-agent pipelines, isolated account switching, customizable personas, feature usage monitoring, and Orca Workspace Board integration for Antigravity (agy).",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "mswdev.fleet-monitor",
       "source": {
         "kind": "git",
@@ -1176,6 +1368,18 @@
       "description": "A phosphor-green-on-black theme with layered green syntax colors and a matching terminal palette.",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "Nomadiction8991.automation-terminal-cleanup",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Nomadiction8991/terminal-clearup.git",
+        "ref": "main"
+      },
+      "description": "Automatically close terminals tied to completed local automation runs.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -1275,6 +1479,18 @@
       ]
     },
     {
+      "id": "rizanw.steno",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/rizanw/steno-spec.git",
+        "ref": "main"
+      },
+      "description": "Shorthand specs in your agent panel: spec-driven development that is agent-agnostic and token-efficient.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "rohitg00.agentmemory",
       "source": {
         "kind": "git",
@@ -1330,6 +1546,18 @@
         "ref": "main"
       },
       "description": "Read .pptx decks in Orca as slides, and play them full screen. Made for decks your agents write: the tab redraws when the file changes. Laid out by the Oxi engine (Rust + WebAssembly); nothing leaves the machine.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "samfaina.kickoff",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/samfaina/orca-kickoff.git",
+        "ref": "main"
+      },
+      "description": "Lists open tasks from Jira or GitHub and starts each one in its own linked worktree, with an agent and per-project prompt templates.",
       "categories": [
         "commands-panels"
       ]
@@ -1594,6 +1822,18 @@
         "ref": "main"
       },
       "description": "앱 제작 그래프, 멀티 에이전트 수정 루프, Play Store 점검과 오늘 이어하기.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "truongthanhquan.cloudflare-relay",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/truongthanhquan/orca-cloudflare-relay-plugin.git",
+        "ref": "main"
+      },
+      "description": "Connect Orca Mobile to this desktop from anywhere through your free Cloudflare account. After installing, click &quot;Set up relay&quot; (cloud icon) in the status bar (or run &quot;Set up / open panel&quot;) and follow 3 steps. Phones pair with a normal QR code; no app changes n",
       "categories": [
         "commands-panels"
       ]
