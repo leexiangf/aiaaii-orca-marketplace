@@ -15,6 +15,18 @@
       ]
     },
     {
+      "id": "aamonnaig4.oled-pair",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/aamonnaig4/orca-plugins.git",
+        "ref": "main"
+      },
+      "description": "True black and true white themes with matching terminal colors. The dark theme is an unchanged copy of the MIT-licensed Orca OLED theme.",
+      "categories": [
+        "themes"
+      ]
+    },
+    {
       "id": "actus7.autocomplete",
       "source": {
         "kind": "git",
@@ -96,6 +108,18 @@
       "description": "A GitHub Dark theme for Orca with a lighter neutral gray interface and matching terminal colors.",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "aliuda.lark-bot-bridge",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/aliuda/orca-lark-bot.git",
+        "ref": "main"
+      },
+      "description": "Bridge a Feishu/Lark self-built bot over persistent WebSocket to your local Orca Bot.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -207,6 +231,18 @@
       ]
     },
     {
+      "id": "baboleevan.workspace-explorer",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/baboleevan/orca-explorer.git",
+        "ref": "main"
+      },
+      "description": "모든 워크스페이스와 원하는 경로를 Finder처럼 탐색하고, 파일을 Orca 탭으로 열어 읽고 수정·삭제합니다.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "bahachammakhi.kube-panel",
       "source": {
         "kind": "git",
@@ -255,6 +291,18 @@
       ]
     },
     {
+      "id": "boxcompute.vm",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/boxcompute/orca-plugin.git",
+        "ref": "main"
+      },
+      "description": "Run each Orca workspace on its own BoxCompute cloud VM, with Claude Code and Codex installed. Pick BoxCompute VM under Run on.",
+      "categories": [
+        "remote-vms"
+      ]
+    },
+    {
       "id": "caocuong2404.observability",
       "source": {
         "kind": "git",
@@ -279,6 +327,18 @@
       ]
     },
     {
+      "id": "cattfan.enhance-prompt",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/cattfan/orca-enhance-prompt.git",
+        "ref": "main"
+      },
+      "description": "Turn rough ideas into project-aware prompts for your coding agents: 5 context levels (rules, stack, git, relevant code), multiple models with fallback, history, and send straight to an agent terminal.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "cemalkilic.lima-recipes",
       "source": {
         "kind": "git",
@@ -288,6 +348,18 @@
       "description": "Disposable Lima VM workspaces: create, suspend, resume and destroy with limactl.",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "chantawat741.pixel-base",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/chantawat741/isometric-pixel-art.git",
+        "ref": "main"
+      },
+      "description": "An isometric pixel-art virtual office for your AI agents. Every agent running in Orca becomes a little office worker: it sits at a desk while it works, raises a ? when it waits for you, shouts ! when it is blocked and wanders to the lounge when it is idle. Click a character to se",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -327,6 +399,18 @@
       ]
     },
     {
+      "id": "cnzgray.mattpocock-workflow",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/cnzgray/orca-mattpocock-workflow.git",
+        "ref": "main"
+      },
+      "description": "Matt Pocock workflow panel: ticket triage, backlog overview, environment checks, one-click prompt copy, and Orca worktree creation.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "codeious.boat-sandbox",
       "source": {
         "kind": "git",
@@ -348,6 +432,18 @@
       "description": "Run each Orca workspace in its own Codewire environment: a local VM on this computer or a cloud sandbox.",
       "categories": [
         "remote-vms"
+      ]
+    },
+    {
+      "id": "Computerhof.merge-review",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/Computerhof/orca-merge-review.git",
+        "ref": "main"
+      },
+      "description": "Review branches and agent workspaces before you merge, predict conflicts, merge, resolve conflicts block by block in a wide tab, and hand reviews or conflicts to agents.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -411,6 +507,18 @@
       ]
     },
     {
+      "id": "ddochi-nyang.bot-world",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/ddochi-nyang/bot-world-plugin.git",
+        "ref": "main"
+      },
+      "description": "Virtual office &amp; Pocket Pet visualizer for Orca bots and live sub-workers (read-only by default, opt-in Quick Send)",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "dera0520.handback",
       "source": {
         "kind": "git",
@@ -471,6 +579,18 @@
       ]
     },
     {
+      "id": "dungnt95.flexoki-theme",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/dungnt95/orca-flexoki-theme.git",
+        "ref": "main"
+      },
+      "description": "Unofficial port of Flexoki, the inky color scheme for prose and code by Steph Ango (stephango.com/flexoki): Light and Dark app themes, matching syntax and terminal colors, and Flexoki Icons file icons (based on Symbols and Pierre Trees icons).",
+      "categories": [
+        "icons"
+      ]
+    },
+    {
       "id": "ehart004.monokai-theme",
       "source": {
         "kind": "git",
@@ -516,6 +636,18 @@
       "description": "Turkish language pack for Orca UI, navigation, and developer tools.",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "id": "EmptyWave.workflow-view",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/EmptyWave/orca-workflow.git",
+        "ref": "main"
+      },
+      "description": "Per-project workflow templates with one-click portability, an orchestration Runs panel, and gate management.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -735,6 +867,18 @@
       ]
     },
     {
+      "id": "geq1fan.chat-reclaim",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/geq1fan/orca-chat-reclaim.git",
+        "ref": "main"
+      },
+      "description": "按工作区列出 agent 会话，逐个或批量关闭空闲（done）会话，补上 Orca 资源面板缺失的关闭按钮。",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "geraldsberongoy.orca-ram-guard",
       "source": {
         "kind": "git",
@@ -771,6 +915,18 @@
       ]
     },
     {
+      "id": "guilatrova.bot-kanban-board",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/guilatrova/bot-kanban-board.git",
+        "ref": "main"
+      },
+      "description": "See every Orca bot's open Items and pull requests on one board, answer what needs you, and merge in one click.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "gutomec.nirvana-os",
       "source": {
         "kind": "git",
@@ -792,6 +948,18 @@
       "description": "Two dark, pale blue-violet themes with pastel accents and matching terminal themes: Quiet Pastel Moonlit (brighter) and Quiet Pastel Hush (dimmer).",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "hangams84.file-preview-dwg",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/hangams84/orca-file-preview.git",
+        "ref": "main"
+      },
+      "description": "Read-only previews of AutoCAD drawings (.dwg) and drawing templates (.dwt), R13 to AutoCAD 2018 and later, with LibreDWG (GPL-3.0) in WebAssembly: model space and paper-space layouts, layers, blocks, text, dimensions and hatches, with pan and zoom.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
@@ -1383,6 +1551,18 @@
       ]
     },
     {
+      "id": "oddieradhie.jenkins",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/oddieradhie/orca-jenkins.git",
+        "ref": "main"
+      },
+      "description": "Jenkins CI/CD monitoring sidebar panel, status bar counter, build queue, console log viewer, and build triggers for Orca.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "oddieradhie.kerjan",
       "source": {
         "kind": "git",
@@ -1635,6 +1815,18 @@
       ]
     },
     {
+      "id": "SpatariuRares.agent-config-manager",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/SpatariuRares/agent-config-manager.git",
+        "ref": "main"
+      },
+      "description": "See your Claude Code setup in one place: plugins, skills, agents, MCP servers and hooks.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
       "id": "spscream.fairway",
       "source": {
         "kind": "git",
@@ -1642,6 +1834,18 @@
         "ref": "main"
       },
       "description": "Choose an allowlisted Codex, Pi or Cursor profile with JEV, then explicitly launch it through Orca. Shadow mode by default.",
+      "categories": [
+        "commands-panels"
+      ]
+    },
+    {
+      "id": "srp-david.prod-deploy",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/srp-david/orca-deployment-plugin.git",
+        "ref": "main"
+      },
+      "description": "바뀐 파일을 대상(업체) 운영 서버에 FTP로 반영한다: 준비 확인 → plan → 백업 → 업로드 → 대조, 되돌리기.",
       "categories": [
         "commands-panels"
       ]
@@ -1752,6 +1956,18 @@
       "description": "Preview PowerPoint presentations (.pptx, .ppsx, .potx and macro-enabled forms) in Orca, with shapes, pictures, tables, charts, slide navigation and zoom.",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "id": "thailoc-dev.rose-pine",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/thailoc-dev/orca-rose-pine.git",
+        "ref": "main"
+      },
+      "description": "All natural pine, faux fur and a bit of soho vibes: Rosé Pine, Moon and Dawn as app and terminal themes, with matching syntax colors.",
+      "categories": [
+        "themes"
       ]
     },
     {
@@ -1896,6 +2112,18 @@
       "description": "App and terminal themes in all four Tokyo Night styles, Night, Storm, Moon and Day, with matching syntax colors.",
       "categories": [
         "themes"
+      ]
+    },
+    {
+      "id": "vrwolf1004.obsidian-for-orca",
+      "source": {
+        "kind": "git",
+        "url": "https://github.com/vrwolf1004/orca-obsidian.git",
+        "ref": "main"
+      },
+      "description": "Browse and read your Obsidian vaults from the Orca sidebar.",
+      "categories": [
+        "commands-panels"
       ]
     },
     {
